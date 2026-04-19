@@ -16,6 +16,7 @@ You need:
 - [VsCode](https://code.visualstudio.com/)
 - [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - some container engine that is supported by Dev Containers Extension for example Docker
+- Docker must allow adding container capabilities such as `NET_RAW` for raw socket access
 
 Starting Development
 
